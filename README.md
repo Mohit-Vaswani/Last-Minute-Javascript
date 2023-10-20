@@ -77,6 +77,8 @@ DESCRIPTION :
 - in apply we pass arguments in an array
 - bind is used to create a copy of a function and then we can use it later
 
+![1_HRqVf3HxHR4CvzwKnZTXNA](https://github.com/Mohit-Vaswani/Last-Minute-Javascript/assets/89992882/20097f26-058a-4441-bc9a-bfaff6057d09)
+
 ```
 
 const obj = {firstName: "sayan", lastName: "maity"}
