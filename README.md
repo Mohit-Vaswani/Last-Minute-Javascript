@@ -67,6 +67,9 @@
     console.log(a) // Output: ReferenceError: a is not defined
 
 
+![l9tnredfaaarb8mk2p4s](https://github.com/Mohit-Vaswani/Last-Minute-Javascript/assets/89992882/df38b071-2f1b-4e98-a3a4-ef7c693d92f0)
+
+
 ## Call, Apply, Bind
 > ```Call```, ```apply```, and ```bind``` are all predefined JavaScript methods. They are used to manipulate the ```this``` value inside functions.
 
